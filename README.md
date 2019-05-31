@@ -1,6 +1,6 @@
 # IKT441_Project
 
-Four versions of the map are included: Easy, medium, hard and hard_modified
+Four versions of the code/maps is included: Easy, medium, hard and hard_modified
 
 playing.py is set up to play with the saved network states
 
